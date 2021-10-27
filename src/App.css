@@ -1,0 +1,134 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.jumbotron
+{
+  text-align: center;
+}
+.C
+{
+  text-align: center;
+  background-color: pink;
+  padding: 5px;
+  width: 100%;
+  height: 400px;
+}
+.navbar
+{
+  height: 50px;
+}
+.Cplus
+{
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  height: 400px;
+  background-color: rgb(188, 243, 243);
+}
+.Page
+{
+  text-align: left;
+  padding: 5px;
+  width: 100%;
+  height: 400px;
+  background-color: rgb(255, 241, 241);
+}
+.css
+{
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  height: 400px;
+  background-color: rgb(166, 241, 166);
+}
+.java
+{
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  height: 400px;
+  background-color: rgb(240, 207, 159);
+}
+.javascript
+{
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  height: 400px;
+  background-color: rgb(255, 179, 221);
+}
+.node
+{
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  height: 400px;
+  background-color: rgb(209, 162, 247);
+}
+.python
+{
+  text-align: center;
+  width: 100%;
+  height: 400px;
+  padding: 5px;
+  background-color: rgb(168, 197, 235);
+}
+.react
+{
+  text-align: center;
+  width: 100%;
+  height: 400px;
+  padding: 5px;
+  background-color: rgb(117, 253, 179);
+}
+.sql
+{
+  text-align: center;
+  width: 100%;
+  height: 400px;
+  padding: 5px;
+  background-color: rgb(243, 210, 170);
+}
+.boot
+{
+  text-align: center;
+  width: 100%;
+  height: 400px;
+  padding: 5px;
+  background-color: rgb(157, 210, 211);
+}
